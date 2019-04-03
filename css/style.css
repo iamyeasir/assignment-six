@@ -82,6 +82,26 @@ font-size: 13px;
 .social {
 	
 }
+.social ul{}
+.social ul li{
+	padding: 0px 15px;
+}
+.social ul a{
+	font-size: 25px;
+	color: #fff;
+}
+.facebook{
+	color: #365F9F!important;
+	
+}
+.twitter{
+	color: #1EA1F3!important;
+	
+}
+.linkedin{
+	color: #066C9A!important;
+	
+}
 .social-icon{margin-right: 7px;color: #fff;}
 
 .dropdown:hover .dropdown-menu {
@@ -438,4 +458,49 @@ font-size: 13px;
 .bottomsearch {
 	display: block !important;
 	margin-top: 10px;
+}
+
+footer {
+	
+	background: #002327;
+	padding-top: 60px;
+}
+footer ul{}
+footer ul li{
+	font-size: 11px;
+    color: #61888B;
+	font-weight: 700;
+}
+
+
+.number {
+	
+}
+.number h2{
+	color: #fff;
+	font-size: 25px;
+	font-weight: 300;
+	
+}
+.number a {
+	font-weight: 500;
+	color: #0093A1;
+	margin-top: 25px;
+	
+}
+
+.footersearch {
+	
+}
+.footersearch h6{}
+.footersearch form{}
+.footersearch input{}
+.footersearch button{}
+
+
+.font-weight-bold {
+	color: #fff;
+	font-size: 14px;
+	
+	
 }
